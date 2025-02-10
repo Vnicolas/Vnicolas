@@ -18,8 +18,7 @@ Salut !👋
 
 - 🧑‍🎓 [Diplômé et certifié](https://certificate.bcdiploma.com/check/EF4A202550975705B08E5094FAACEA98250CAF362F3A6132655C2C3B7A8688F8L0J1ZitBOEkwODg1LzhsakxyazliUjRtbTJ2dTJrT0J5Z21STzB6N3JyWGdkN3N2) développeur Blockchain Ethereum par Alyra
 
-- 💬 "Il y a une différence entre connaître l
-e chemin et arpenter le chemin."
+- 💬 "Il y a une différence entre connaître le chemin et arpenter le chemin."
 
 
 ## Langages et Outils
